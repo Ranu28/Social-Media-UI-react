@@ -7,9 +7,9 @@ import Register from "./pages/register/Register";
 // import {Person} from "@mui/icons-material"
 
 function App(){
-    // return <Home/>
+     return <Home/>
     // return <Profile/>
-    return <Login />
+    // return <Login />
     // return <Register />
 
 }
