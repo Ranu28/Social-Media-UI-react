@@ -13,6 +13,5 @@ export default function RightbarFriends({users}) {
                                 {users.username}
                             </span>
                         </li>
-       
     )
 }
