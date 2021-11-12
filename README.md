@@ -1,4 +1,8 @@
 ![](https://github.com/Ranu28/Social-Media-UI-react/blob/master/screenshots/homePage.jpg)
+    Home Page
+
+![](https://github.com/Ranu28/Social-Media-UI-react/blob/master/screenshots/proilePage.jpg)
+    Profile Page
 
 # Getting Started with Create React App
 
