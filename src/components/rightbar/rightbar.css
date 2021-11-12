@@ -1,5 +1,9 @@
 .rightbar{
     flex: 3.5;
+    height: calc( 100vh - 50px );
+    overflow-y: scroll;
+    position: sticky;
+    top: 50px;
 }
 
 .rightbarWrapper{
@@ -24,4 +28,48 @@
     width: 100%;
     border-radius: 10px;
     margin: 20px 0;
+}
+
+.rightbarTitle{
+    margin-bottom: 20px;
+}
+
+.rightbarFriendList{
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+.rightbarFriend{
+    display: flex;
+    align-items: center;
+    margin-bottom: 15px;
+}
+
+.rightbarProfileImgContainer{
+    margin-right: 10px;
+    position: relative;
+}
+
+
+.rightbarProfileImg{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.rightbarOnline{
+    width: 12px;
+    height: 12px;
+    background-color: limegreen;
+    border-radius: 50%;
+    position: absolute;
+    top: -2px;
+    right: 0;
+    border: 2px solid whitesmoke;
+}
+
+.rightbarUsername{
+    font-weight: 500;
 }
