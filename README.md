@@ -1,3 +1,11 @@
+#    Home Page
+
+![](https://github.com/Ranu28/Social-Media-UI-react/blob/master/screenshots/homePage.jpg)
+
+#   Profile Page
+
+![](https://github.com/Ranu28/Social-Media-UI-react/blob/master/screenshots/proilePage.jpg)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
