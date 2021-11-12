@@ -1,3 +1,5 @@
+![](https://github.com/Ranu28/Social-Media-UI-react/blob/master/screenshots/homePage.jpg)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
